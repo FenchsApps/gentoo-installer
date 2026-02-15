@@ -36,7 +36,7 @@ The script creates a **GPT** partition table with three partitions:
 2. Download the script:
 
    ```bash
-   wget https://raw.githubusercontent.com/<user>/gentoo-installer/main/awesome-installer-openrc-uefi.sh
+   curl -fsSL https://raw.githubusercontent.com/<user>/gentoo-installer/main/awesome-installer-openrc-uefi.sh | bash
    ```
 
 3. Make it executable and run:
